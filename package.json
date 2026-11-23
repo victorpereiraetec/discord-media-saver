@@ -1,0 +1,15 @@
+{
+  "name": "discord-media-saver",
+  "version": "1.0.0",
+  "description": "Salva todas as fotos e vídeos de um servidor do Discord (selfbot)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.7.0"
+  }
+}
