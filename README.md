@@ -108,7 +108,7 @@ Fique à vontade para abrir o `index.js` e ler os comentários — ele foi escri
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/discord-media-saver.git
+git clone https://github.com/victorpereiraetec/discord-media-saver.git
 cd discord-media-saver
 npm install
 ```
